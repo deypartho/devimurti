@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "beds",
+      "name": "Platform beds",
+      "price": 5000,
+      "quantity": 2,
+      "description": "jkljlkjlkljkljkljkl",
+      "img_1": "bed1.jpg",
+      "img_2": "product2.jpg",
+      "cat_id": 6
+    },
+    {
+      "id": 2,
+      "category": "chairs",
+      "name": "Platform beds",
+      "price": 5000,
+      "quantity": 2,
+      "description": "jkljlkjlkljkljkljkl",
+      "img_1": "bed1.jpg",
+      "img_2": "product2.jpg",
+      "cat_id": 6
+    },
+    {
+      "id": 3,
+      "category": "chairs",
+      "name": "Platform beds",
+      "price": 5000,
+      "quantity": 2,
+      "description": "jkljlkjlkljkljkljkl",
+      "img_1": "bed1.jpg",
+      "img_2": "product2.jpg",
+      "cat_id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "chairs",
+      "img": "product1.jpg",
+      "price": "8000"
+    }
+  ]
+}
